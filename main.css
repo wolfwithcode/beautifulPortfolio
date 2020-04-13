@@ -34,6 +34,7 @@ p {
 
 img {
     width: 100%;
+   height: 100%;
 }
 /*End global*/
 
@@ -608,7 +609,7 @@ input[type="submit"]:hover{
     }
 
     .portfolio-img{
-        margin: 0 0 2rem 0;
+        margin: 0 0 1rem 0;
         order: 1;
     }
 
